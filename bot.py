@@ -33,7 +33,7 @@ from aiogram.types import (
 # НАСТРОЙКИ
 # ============================================================
 
-BOT_TOKEN = "ВСТАВЬ_НОВЫЙ_ТОКЕН_БОТА"
+BOT_TOKEN = "8973976090:AAFuu8J1mcs_aAHXwyiPR9QES76nH77WIms"
 ADMIN_ID = 7095354198
 
 PRODUCT_URL = "https://funpay.com/lots/offer?id=78639026"
