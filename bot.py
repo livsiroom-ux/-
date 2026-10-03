@@ -33,7 +33,7 @@ from aiogram.types import (
 # НАСТРОЙКИ
 # ============================================================
 
-BOT_TOKEN = 8973976090:AAFuu8J1mcs_aAHXwyiPR9QES76nH77WIms
+BOT_TOKEN = "8973976090:AAFuu8J1mcs_aAHXwyiPR9QES76nH77WIms"
 ADMIN_ID = 7095354198
 
 # Используется только при создании нового счётчика в пустой базе.
